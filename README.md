@@ -1,1 +1,2 @@
-"# VonNeumannProbes" 
+# VonNeumannProbes 
+Von Neumann probe calculator 
